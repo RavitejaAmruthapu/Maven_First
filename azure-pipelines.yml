@@ -25,5 +25,4 @@ steps:
   inputs:
     targetType: "inline"
     script: |
-        ls -l **/target # Update to the name of the directory of your task
-        tsc
+        ls -l **/target
